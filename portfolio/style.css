@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+}
+nav{
+    display: block;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    padding: 6px;
+}
+
